@@ -29,3 +29,11 @@ test/data/processor/js/*.js
 test/data/processor/mml-contents/*.html
 test/data/processor/index.html
 test/data/processor/start.html
+
+# Machine-local IDE metadata and AI-agent permission state
+/.idea/
+/.claude/settings.json
+/.claude/settings.local.json
+/.claude/*.local.json
+/.codex
+.DS_Store
